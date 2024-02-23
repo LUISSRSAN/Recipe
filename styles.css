@@ -1,0 +1,81 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+    font-size:16;
+    font-family: "Young Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h2 {
+    color:hsl(332, 51%, 32%);
+    text-align:left;
+}
+
+.container{
+    background-color:white;
+    width:60%;
+    margin:auto;
+    text-align:center;
+    padding:50px;
+}
+
+img{
+    width:500px;
+    margin:0 auto;
+    padding:0px;
+    border-radius:15px;
+
+}
+
+li{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    color:hsl(30, 10%, 34%);
+    font-style: normal;
+}
+
+strong{
+    color:hsl(24, 5%, 18%);
+}
+.preparation{
+background-color:hsl(30, 18%, 87%);
+width:95%;
+margin :0 auto;
+border-radius:10px;
+text-align:left;
+padding:10px;
+opacity:0.8;
+
+}
+
+
+.preparation h3{
+    color:hsl(332, 51%, 32%);
+
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+}
+
+.instructions {
+    color:hsl(30, 10%, 34%);
+    text-align:left;
+}
+
+p{
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    color:hsl(30, 10%, 34%);
+    font-style: normal;
+    color:hsl(24, 5%, 18%);
+}
+
+table{
+    display:flex;
+    justify-content :space-;
+}
+
+ul li{
+    text-align:left;
+  color: hsl(30, 10%, 34%);
+}
